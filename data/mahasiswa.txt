@@ -1,8 +1,0 @@
-Budi,12345
-Andi,54321
-Budi,12345
-Andi,54321
-Budi,12345
-Andi,54321
-wee,12345
-Andiasd,54321
